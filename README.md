@@ -1,4 +1,4 @@
-# <img align="left" width="100" src="oska/Resources/AppIcon/appicon.png"> osk!assistant
+# <img align="left" width="100" src="oska/Resources/AppIcon/appicon.svg"> osk!assistant
 ***oska*** or ***osk!assistant*** is a desktop utility for creating and editing osu! skins.
 
 <br/>
